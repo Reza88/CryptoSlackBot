@@ -1,0 +1,31 @@
+Commands
+
+    1.) About
+
+        Example: 'about'
+
+    2.) Crypto Price
+
+        Example: 'crypto BTC USD'
+
+        Example: 'crypto ETH JPY'
+
+        Example: 'crypto TRX EUR'
+
+        Example: 'crypto NEO CAD'
+
+    3.) Top exchanges for volume for a currency pair.
+
+        Headers: | Exchange | Symbol | Currency | 24h Volume | 24h Trading Volume
+
+        Example: 'volume BTC USD'
+
+        Example: 'volume ETH JPY'
+
+        Example: 'volume TRX EUR'
+
+        Example: 'volume NEO CAD'
+
+    4.) Crypto Related News.
+
+        Example: cryptonews bitcoin
